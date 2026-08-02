@@ -1,2 +1,16 @@
-# pokemon-hex-card-game
-寶可夢六角蜂巢卡牌遊戲 - Hex Grid Triple Triad like game
+# 🔲 寶可夢六角蜂巢卡牌遊戲
+Hex Grid Triple Triad like Pokémon Card Game
+
+這是從《寶可夢學習宇宙》中独立出來的六角卡牌遊戲專案。
+
+## 功能
+1. **自由對戰** (蜂巢對戰) - 7/10/19 格棋盤，SAME / PLUS / COMBO 規則
+2. **闐關塔** (蜂巢挑戰) - 30 關闐關系統
+3. **卡牌鍛造** (鍛造工坊) - 將圖鑑寶可夢鍛造成六角卡
+
+## 怎麼玩
+直接打開 `index.html` 或部署到 GitHub Pages。
+
+原始專案不會被修改，此專案為独立可玩版。
+
+V1.0 - 初始拆分版
